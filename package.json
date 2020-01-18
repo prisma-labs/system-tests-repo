@@ -5,7 +5,8 @@
     "npm:release": "npm publish --tag test1",
     "yarn:release": "yarn publish --tag test1",
     "test": "echo $npm_execpath",
-    "release:preview": "dripip preview --trunk preview-publishing"
+    "release:preview": "dripip preview --trunk preview-publishing",
+    "release:stable": "dripip stable --trunk preview-publishing"
   },
   "dependencies": {
     "dripip": "next"
