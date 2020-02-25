@@ -1,6 +1,6 @@
 {
   "name": "dripip-system-tests",
-  "version": "0.0.100-pr.9.b",
+  "version": "0.0.100-pr.9.c",
   "scripts": {
     "npm:release": "npm publish --tag test1",
     "yarn:release": "yarn publish --tag test1",
