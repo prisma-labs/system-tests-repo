@@ -9,6 +9,6 @@
     "release:stable": "dripip stable --trunk preview-publishing"
   },
   "dependencies": {
-    "dripip": "next"
+    "dripip": "0.0.0-pr.68.12.a36f748"
   }
 }
